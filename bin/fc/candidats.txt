@@ -1,0 +1,525 @@
+Question 1 : de quoi est le plus remplie une bibliothèque ?
+images/P1Q1.png
+de livre
+de bibliophile 
+de poussière
+de feur je crois
+1
+Question 2 : Salut ça va ?
+images/P1Q2.png
+Oui
+Non
+On est pas chez le psy
+...
+3
+Question 3 : Qu’est ce qui tient le plus chaud quand il fait froid ?
+images/P1Q3.png
+un four
+une couverture 
+de l’essence
+de l’eau froide
+2
+Question 4 : Combien y a-t-il de spécialités à Polytech Grenoble ?
+images/P1Q4.png
+12
+12 + 1
+12 + 2
+12 - 5
+4
+Question 5 : Qui est David Pujadas ?
+images/P1Q5.png
+un footballer
+un danseur
+un musicien
+un présentateur TV
+4
+Question 6 : à qui appartenait le célèbre journal intime tenu par une fille juive pendant la 2nd guerre mondiale ?
+images/P1Q6.png
+Anne Sophie
+Anne Charlotte
+Anne Frank
+Anne Hibale
+3
+Question 7 : Sur les 7 merveilles du monde originellement construites, qu’elle est celle l’unique survivante ?
+images/P1Q7.png
+Le Temple d’Artémis
+La Pyramide de Khéops
+Le Phare d’Alexandrie
+Le Mausolée d’Halicarnasse
+2
+Question 8 : Just prix 100 000
+NO
+0
+0
+0
+0
+1
+Question 9 : L’île de Ré existe, mais qu’elle autre île existe égualement ?
+images/P1Q9.png
+L’île de fa
+L’île de sol
+L’île de si
+L’île de mi
+2
+Question 10 : Qu’est-ce qu’un lipogramme ?
+images/P1Q10.png
+Une unité de mesure
+Un mot qui change de sens selon lequel il est lu
+L’ancêtre de la balance 
+Un texte dont une lettre est bannie
+4
+Question 11 : Comment appelle-t-on quelqu'un qui joue de l’orgue ?
+images/P1Q11.png
+un orguiste
+un organiste
+un orguier
+on ne l’appelle pas
+2
+Question 12 : A quoi peut faire allusion le nombre 195 ?
+images/P1Q12.png
+Au nombre de pays dans le monde 
+A la vitesse de la Terre autour du Soleil (km/h)
+A la fortune d’Elon Musk (Milliards)
+Au nombre de cheveux sur la tête (en milliers)
+1
+Question 13 : Le plus long palindrome du monde est établi par un Finnois en 1992, mais combien compte-t-il de lettres ?
+images/P1Q13.png
+10 000
+30 000
+50 000
+70 000
+3
+Question 14 : Sur l’ordre de qui Hercule réalise-t-il les 12 travaux :
+images/P1Q14.png
+Eurysthée
+Lycos
+Thésée
+Bellérophon
+1
+Question 15 : Quel est la conjugaison du verbe clore à la 1ère personne du pluriel de l’indicatif ?
+images/P1Q15.png
+Nous clorons
+Nous closons
+Les deux sont justes
+Ca existe pas
+4
+Question 1 : Quelle est la 5ème lettre de l’alphabet ?
+images/P2Q1.png
+F
+E
+U
+R
+2
+Question 2 : Le savais tu ? Solitaire et nocturne, le hérisson se roule en boule lorsqu’il se sent menacé
+images/P2Q2.png
+Non mais je sais qu’il a entre 5000 et 7500 pics sur son dos
+Non mais je savais qu’en tant que fin gourmet, il se nourrissait d’invertébrés
+Quel animal sympathique décidément
+Oui et c’est aussi la bonne réponse
+4
+Question 3 : Sais-tu lire à l’envers ?
+images/P2Q3.png
+sias ej iuo
+sap sias en ej non
+esnopèr ennob al tse’c
+ressasser tôt été kayak bob
+3
+Question 4 : Quel organisme attribue les étoiles dans les restaurants  ?
+images/P2Q4.png
+Le Guide Michelin 
+Le Guide du Routard
+Tripadvisor
+Le patron lui même
+1
+Question 5 : Complétez cette phrase par la suite adéquat : « To be or not to be... »
+images/P2Q5.png
+That is the solution
+That is the point
+That is the equation
+That is the question
+4
+Question 6 : Quel nom se rapporte à l’avant dernière colonne du tableau de Mendeleïev ?
+images/P2Q6.png
+Alcalins
+Halogènes
+Gaz Nobles
+Métalloïdes
+2
+Question 7 : De quel film est tiré ce même ?
+images/P2Q7.png
+Gatsby le magnifique
+Le loup de Wall Street
+Gangs of New York
+Aviator
+1
+Question 8 : jeu mystère Chateau de carte
+NO
+0
+0
+0
+0
+1
+Question 9 : Lequel de ces noms n’est pas celui d’une valkyrie dans la mythologie nordique ?
+images/P2Q9.png
+Freyja
+Brynhild
+Freyr
+Hildr
+3
+Question 10 : Qui est habilité à déclencher un tir nucléaire en France ?
+images/P2Q10.png
+Le Président de la République
+Le Chef d’Etat Major des Armées 
+Le Chef d’Etat Major général de la défense nationale
+Les 3 réponses sont justes
+1
+Question 11 : Tout le monde connait 1515 la bataille de Marignan, mais qui était opposé à qui ?
+images/P2Q11.png
+François 1er aux mercenaires suisses
+Charles 1er à Henri II
+Louis XII contre Ferdinand d’Aragon
+Maximilien 1er et Louis XI
+1
+Question 12 : Quel animal ou insecte est considéré comme le plus agressif au monde ?
+images/P2Q12.png
+La Veuve noire
+Le Dragon du Komodo
+Le Ratel 
+Le moustique tigre
+3
+Question 13 : Quelle est la capitale de Taiwan :
+images/P2Q13.png
+Taitung
+Taipei
+Macao
+Taiwan
+2
+Question 14 : Que vois-tu sur la photo ?
+images/P2Q14.png
+Rodhodendrons fushsia
+Rhodhodendrons fuschsia
+Rodhodendrons fuchsias
+Rhododendrons fuchsia
+4
+Question 15 : Quel a été l'architecte à la tête du monument de la Statue de la Liberté ?
+images/P2Q15.png
+Eugène Viollet-le-Duc 
+Gustave Eiffel 
+Auguste Bartholdi
+Edouard Laboulaye
+1
+Question 1 : Pourquoi un fermier ne peut pas se marier avec Claire ?
+images/P3Q1.png
+Parce que la ferme tuerait Claire
+Pourquoi pas
+Elle habite en ville
+Parce que feur
+1
+Question 2 : Quel est le nom de cet animal ?
+images/P3Q2.png
+Aye Aye
+Ouille Ouille
+G mal
+Oskour
+1
+Question 3 : Quel est le nom de la figure indiquant les points cardinaux ?
+images/P3Q3.png
+La tulipe des vents
+La pâquerette des vents
+La jonquille des vents
+La rose des vents
+4
+Question 4 : Quel est le plus petit pays du monde ?
+images/P3Q4.png
+Andorre
+Monaco
+Vatican
+Tuvalu
+3
+Question 5 : Quelle est le décalage horaire entre Paris et Los Angeles ?
+images/P3Q5.png
+12h
+7h
+14h
+9h
+4
+Question 6 : Dans le film Braveheart, quels sont les derniers mots de William Wallace avant de mourir décapité ?
+images/P3Q6.png
+Ecosse pour toujours
+Fuck you
+Liberté
+Pitié 
+3
+Question 7 : Que représente la statue Place de la République à Paris inaugurée en 1883 ?
+images/P3Q7.png
+Louis XIV
+Général de Gaulle
+Marianne
+La justice
+3
+Petit jeu : 1vs1 smash contre Albin
+NO
+0
+0
+0
+0
+1
+Question 9 : Quel personnage farfelu ne voit-on pas apparaitre dans Total Recall (1990) ?
+images/P3Q9.png
+Un Kuato
+Une femme à 3 seins
+Une tête qui parle
+Un homme à 3 yeux
+4
+Question 10 : Quel pays a rejoint le G7 en 1997 pour devenir le G8 ?
+images/P3Q10.png
+La Russie
+Le Brésil
+La Chine
+Le Canada
+1
+Question 11 : Pourquoi le film Armageddon est utilisé par la NASA ?
+images/P3Q11.png
+Pour préparer une potentielle catastrophe
+Pour étudier les nombreuses incohérences
+Car cela représente l’héroïsme Américain
+Car c’est un très bon film sur l’espace
+2
+Question 12 : Pourquoi le mois de septembre, avec sept dans son nom, est le 9e mois ?
+images/P3Q12.png
+En raison d’une erreur de calcul
+Le calendrier grégorien a ajouté janvier et février
+Le calendrier romain a ajouté juillet et aout
+L’influence du calendrier hégirien 
+2
+Question 13 : Qui a peint le célèbre tableau intitulé « le verrou » ?
+images/P3Q13.jpeg
+Jean-Honoré Fragonard
+Claude Monet 
+Rembrandt
+Paul Cézanne
+1
+Question 14 : Quel est la bonne écriture du célèbre philosophe allemand ?
+images/P3Q14.jpeg
+Fredriech Nietzsch
+Friedrich Nietzsche
+Friederich Nitzsche
+Fridrich Nitzsche
+2
+Question 15 : Quel célèbre poète popularise l’expression « Un tiens vaut mieux que deux tu l’auras » ?
+images/P3Q15.png
+Jean de la Fontaine
+Pierre Corneille
+Nicolas Boileau
+Jean Racine
+1
+Question 1 : Pourquoi la vie ?
+images/P4Q1.png
+Personne ne sait pourquoi je saurais ?
+Parce que la mort
+42 mon gars
+Pour feur
+1
+Question 2 : Quelle mer accoste Nice ?
+images/P4Q2.png
+Mer crocodile 
+Mer méditerranée
+Un pécheur
+Mercredi
+2
+Question 3 : Dans quelle direction pointe la flèche rouge d’une boussole ?
+images/P4Q3.jpeg
+Le Nord
+Le Sud
+L’Ouest
+L’Est
+1
+Question 4 : Quel est le vrai nom du rappeur JUL ?
+images/P4Q4.jpeg
+Jules Cargèse
+Julien Mari
+Julius César
+Julian Lefèvre
+2
+Question 5 : Quel pays a gagné le plus de coupe du monde au football ?
+images/P4Q5.png
+Brésil
+France
+Allemagne
+Argentine
+1
+Question 6 : Quel est le nom du personnage de Tom Hank dans « Seul au monde » ?
+images/P4Q6.jpeg
+Forrest Gump
+Robert Langdon
+Paul Edgecomb
+Chuck Nolan
+4
+Question 7 : Avec quel artiste Maria Carrey à repris, chanté et publié son single “All I want Christmas is you” ?
+images/P4Q7.png
+Justin Bieber
+Céline Dion
+Katy Perry
+Taylor Swift
+1
+Question 8 : Jeu
+NO
+0
+0
+0
+0
+1
+Question 9 : Laquelle de ces applications est la plus ancienne ?
+images/P4Q9.jpeg
+Instagram
+Snapchat 
+WhatsApp
+Messenger
+3
+Question 10 : Dans Harry Potter quel est la devise de Poudlard ?
+images/P4Q10.png
+Draco dormiens nunquam titillandus
+Veritas vos liberabit
+Ad astra per aspera
+Silentium draconis nunquam turbetur
+1
+Question 11 : Quel massif français à la plus petite superficie ?
+images/P4Q11.png
+Corse
+Jura
+Pyrénées
+Vosges
+2
+Question 12 : Quel est l’écart (en m) entre le mont Everest et la Fosse des Mariannes ?
+images/P4Q12.jpeg
+16 984
+21 593
+19 843
+12 365
+3
+Question 13 : Quand s’est déroulé le lancement d’Apollo 11 ?
+images/P4Q13.png
+16 juillet 1969
+14 mars 1963
+11 février 1965
+17 novembre 1971
+1
+Question 14 : Quel est le premier succès de Claude François ?
+images/P4Q14.jpeg
+Le mal-aimé
+Bélinda
+Belles ! Belles ! Belles !
+Alexandrie Alexandra
+3
+Question 15 : Quel roi a régné le moins longtemps en France ?
+images/P4Q15.png
+Louis XVII
+Louis VIII
+Louis II
+Louis XIX
+4
+Question 1 : Cette question sert à quoi ?
+images/P5Q1.jpeg
+À rien c’est pour ca que c’est simple
+Choisis la 1
+Choisis la 1
+À feur
+1
+Question 2 : Quelle est le capital du Luxembourg ?
+images/P5Q2.png
+Luxembourg
+Bruxelles
+Dudelange
+Linger
+1
+Question 3 : Selon la blague, que se passe-t-il lorsque Chuck Norris jette une grenade ?
+images/P5Q3.jpeg
+L’univers explose
+50 personnes meurent, puis la grenade explose
+Pris de conscience de l’impact carbone, il la mange
+Il ne se passe rien
+2
+Question 4 : Comment appelle-t-on le centre du jeu de fléchette ?
+images/P5Q4.png
+Bullseye
+Buckshot
+Circle 
+Center
+1
+Question 5 : De quelle ville est originaire Orelsan ?
+images/P5Q5.jpeg
+Alençon
+Marseille
+Paris 
+Brest
+1
+Question 6 : Qui est l’auteur de cette sculpture ?
+images/P5Q6.jpeg
+Michel-Ange
+Henry Moore
+Auguste Rodin
+Donatello
+3
+Question 7 : Quel est le premier article de la déclaration des droits de l’homme et du citoyen ?
+images/P5Q7.jpeg
+Le principe de toute souveraineté réside essentiellement dans la Nation.
+Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme.
+Les hommes naissent et demeurent libres et égaux en droits. 
+La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui
+3
+Question 8 : Jeu de dé
+NO
+0
+0
+0
+0
+1
+Question 9 : Dans quel sport David Douillet est-il champion ?
+images/P5Q9.jpeg
+Escrime
+Football
+Judo
+Rugby
+3
+Question 10 : Quelle est le désert froid le plus grand ?
+images/P5Q10.jpeg
+La pantagonie
+Désert de Kyzyl Kum
+Désert de Gobi
+Désert du Taklamakan
+3
+Question 11 : Selon la théorie sur Winnie l’ourson de quel maladie mentale souffre-t-il ?
+images/P5Q11.png
+Psychopathe
+Hyperactivité
+Trouble de l'attention
+Schizophrénie
+3
+Question 12 : Vrai nom néo dans matrix ?
+images/P5Q12.png
+James Anderson
+Lucas Anderson
+John Anderson
+Thomas Anderson
+4
+Question 13 : Qui aurait dû avoir le premier rôle dans le film à succès, Forest Gump ?
+images/P5Q13.jpeg
+Tom Hardy
+John Travolta
+Brad Pitt
+Kevin Costner
+2
+Question 14 : D’où vient l’expression « Nikel Chrome » ?
+images/P5Q14.jpeg
+Du Nichrome, un alliage non magnétique de Nikel et de Chrome
+De ses propriétés inoxydables, utilisés par les fabricants de robinets
+D’un médecin qui avait la plupart de ses outils fait de Nikel et de Chrome
+Du fait que leurs isotopes ont des caractéristiques très similaires
+2
+Question 15 : Parmi ces Présidents, lequel n’est pas mort pendant l’exercice de ses fonctions ?
+images/P5Q15.jpeg
+Emile Loubet
+Sadi Carnot
+Felix Faure 
+Paul Doumer
+1
